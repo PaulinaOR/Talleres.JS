@@ -1,0 +1,19 @@
+.container{
+    font-family:'Gabriola';
+  .card{
+    margin : 20px;
+    .form-control{
+      margin:20px;
+      max-width: 280px;
+    }
+  }
+    margin-top:20px;
+       min-width: 400px;
+       label{
+         margin-left:40px;
+        
+       }
+       #answer{
+         text-align:center;
+       }
+      }
